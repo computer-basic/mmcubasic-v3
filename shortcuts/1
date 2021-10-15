@@ -1,0 +1,106 @@
+{
+    "first": [
+        {
+            "key": "Ctrl + A",
+            "action": "Select All"
+        },
+        {
+            "key": "Ctrl + C",
+            "action": "Copy"
+        },
+        {
+            "key": "Ctrl + E",
+            "action": "Select the Search Box"
+        },
+        {
+            "key": "Ctrl + F",
+            "action": "Find"
+        },
+        {
+            "key": "Ctrl + H",
+            "action": "Find and Replace"
+        }
+    ],
+    "second": [
+        {
+            "key": "Ctrl + N",
+            "action": "Open a New Window"
+        },
+        {
+            "key": "Ctrl + V",
+            "action": "Paste"
+        },
+        {
+            "key": "Ctrl + X",
+            "action": "Cut"
+        },
+        {
+            "key": "Ctrl + Z",
+            "action": "Undo"
+        },
+        {
+            "key": "Ctrl + Mouse Scroll Wheel",
+            "action": "Zoom In/Out"
+        },
+        {
+            "key": "Ctrl + Alt + Del",
+            "action": "Start Task Manager"
+        },
+        {
+            "key": "Alt + Tab",
+            "action": "Switch Screen/Tabs"
+        },
+        {
+            "key": "Alt + F4",
+            "action": "Close App"
+        },
+        {
+            "key": "Win + L",
+            "action": "Lock Screen"
+        },
+        {
+            "key": "Win + D",
+            "action": "Show Desktop"
+        },
+        {
+            "key": "Win + Tab",
+            "action": "Toggle Task View"
+        },
+        {
+            "key": "Win + C",
+            "action": "Opens Cortana"
+        },
+        {
+            "key": "Win + Prt Sc",
+            "action": "Save Screenshot"
+        },
+        {
+            "key": "Win + I",
+            "action": "Open Settings"
+        },
+        {
+            "key": "Win + S",
+            "action": "Search for Windows"
+        },
+        {
+            "key": "Fn + F2",
+            "action": "Rename"
+        },
+        {
+            "key": "Fn + F5",
+            "action": "Refresh"
+        },
+        {
+            "key": "Win + X",
+            "action": "Hidden Menu"
+        },
+        {
+            "key": "Win + V",
+            "action": "Navigate Through Notifications"
+        },
+        {
+            "key": "Win + Ctrl + B",
+            "action": "Open App That Displayed a Notification"
+        }
+    ]
+}

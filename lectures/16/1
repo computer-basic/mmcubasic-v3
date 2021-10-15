@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "Python (1)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/il19ez82",
+        "duration": "23:19",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1rEbfUy4mtJNskP_sFQibKJMnpkCIIs69",
+        "size": "40.9 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (2)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/wuy1i818",
+        "duration": "53:31",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1ZF3qu4KDe-XlWjlA5TDTanXn9Ia96erz",
+        "size": "94.5 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (3)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/c522urjy",
+        "duration": "22:35",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1KMd4OhRhXyxd4lD2pQdN3mK-M8l3C8W6",
+        "size": "58.8 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (4)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/tgwi8lw6",
+        "duration": "14:40",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1t0JT_EIpV7GrYmYtqppMGdNfCxTe9Uc0",
+        "size": "27.3 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (5)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/tt5e7tdq",
+        "duration": "40:27",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1m9QKIR1aUtI6EsxKE_Atr21DxWbv4pFL",
+        "size": "87.7 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (6)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/x5q67wet",
+        "duration": "22:46",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=15cH4r522HHkABvawRh3Bg9Sv__SByYfm",
+        "size": "54.5 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (7)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/b4z01p9p",
+        "duration": "22:37",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1e4Cm7WJVR9aWsLVqQX7E-f57qkwMltAv",
+        "size": "52.5 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (8)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/41khbomd",
+        "duration": "21:26",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1PZPIdXcJSAR0jGtHhloRZiIXe_hrX6rn",
+        "size": "46.1 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (9)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/teydgwmu",
+        "duration": "1:02:54",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1MyXDcBw6xsLKGQw6wGT684iW9IJiz6eJ",
+        "size": "84.4 MB",
+        "sort": 1
+    },
+    {
+        "id": 1,
+        "title": "Python (10)",
+        "videoId": "",
+        "videoUrl": "https://sendvid.com/hg3i2032",
+        "duration": "7:57",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/python/1/",
+        "size": "",
+        "sort": 1
+    }
+]

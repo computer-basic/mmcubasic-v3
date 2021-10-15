@@ -1,0 +1,110 @@
+{
+    "first": [
+        {
+            "key": "Ctrl + 0",
+            "action": "Clean Screen"
+        },
+        {
+            "key": "Ctrl + 1",
+            "action": "Property Palette"
+        },
+        {
+            "key": "Ctrl + 2",
+            "action": "Design Center Palette"
+        },
+        {
+            "key": "Ctrl + 3",
+            "action": "Tool Palette"
+        },
+        {
+            "key": "Ctrl + 4",
+            "action": "Sheet Set Palette"
+        }
+    ],
+    "second": [
+        {
+            "key": "Ctrl + 6",
+            "action": "DBConnect Manager"
+        },
+        {
+            "key": "Ctrl + 7",
+            "action": "Markup Set Manager Palette"
+        },
+        {
+            "key": "Ctrl + 8",
+            "action": "Quick Calc"
+        },
+        {
+            "key": "Ctrl + 9",
+            "action": "Command Line"
+        },
+        {
+            "key": "Ctrl + E",
+            "action": "Cycle isometric planes"
+        },
+        {
+            "key": "Ctrl + F",
+            "action": "Toggle running object snaps"
+        },
+        {
+            "key": "Ctrl + G",
+            "action": "Toggle Grid"
+        },
+        {
+            "key": "Ctrl + H",
+            "action": "Toggle Pick Style"
+        },
+        {
+            "key": "Ctrl + Shift + H",
+            "action": "Toggle Hide pallets"
+        },
+        {
+            "key": "Ctrl + I",
+            "action": "Toggle Coords"
+        },
+        {
+            "key": "Ctrl + Shift + I",
+            "action": "Toggle Infer Constraints"
+        },
+        {
+            "key": "Ctrl + N",
+            "action": "New Drawing"
+        },
+        {
+            "key": "Ctrl + O",
+            "action": "Open drawing"
+        },
+        {
+            "key": "Ctrl + P",
+            "action": "Plot dialog box"
+        },
+        {
+            "key": "Ctrl + Q",
+            "action": "Exit"
+        },
+        {
+            "key": "Ctrl + S",
+            "action": "Save drawing"
+        },
+        {
+            "key": "Ctrl + Shift + S",
+            "action": "Save drawing as"
+        },
+        {
+            "key": "Ctrl + Tab",
+            "action": "Switch to next"
+        },
+        {
+            "key": "Ctrl + Shift + Tab",
+            "action": "Switch to previous drawing"
+        },
+        {
+            "key": "Ctrl + Page Up",
+            "action": "Switch to previous tab in current drawing"
+        },
+        {
+            "key": "Ctrl + Page Down",
+            "action": "Switch to next tab in current drawing"
+        }
+    ]
+}

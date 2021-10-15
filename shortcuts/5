@@ -1,0 +1,110 @@
+{
+    "first": [
+        {
+            "key": "Ctrl + N",
+            "action": "Create a new presentation document"
+        },
+        {
+            "key": "Ctrl + O",
+            "action": "Open an existing presentation document"
+        },
+        {
+            "key": "Ctrl + S",
+            "action": "Save a presentation"
+        },
+        {
+            "key": "Ctrl + W",
+            "action": "Close a presentation"
+        }
+    ],
+    "second": [
+        {
+            "key": "Ctrl + Q",
+            "action": "Save and close a presentation"
+        },
+        {
+            "key": "Ctrl + Z",
+            "action": "Undo"
+        },
+        {
+            "key": "Ctrl + Y",
+            "action": "Redo"
+        },
+        {
+            "key": "Ctrl + F2",
+            "action": "Print Preview View"
+        },
+        {
+            "key": "Ctrl + Tab",
+            "action": "Switch between open presentations"
+        },
+        {
+            "key": "Ctrl + F1",
+            "action": "Show or hide the ribbon"
+        },
+        {
+            "key": "Ctrl + F",
+            "action": "Search in a presentation or use Find and Replace"
+        },
+        {
+            "key": "F1",
+            "action": "Open the Help pane"
+        },
+        {
+            "key": "F7",
+            "action": "Check for spellings"
+        },
+        {
+            "key": "Alt + F2",
+            "action": "Open the Save As dialog box"
+        },
+        {
+            "key": "Alt or F10",
+            "action": "Turn the key tips to ‘on’ or ‘off’"
+        },
+        {
+            "key": "Alt + F",
+            "action": "Open the File tab menu"
+        },
+        {
+            "key": "Alt + H",
+            "action": "Go to the Home tab"
+        },
+        {
+            "key": "Alt + N",
+            "action": "Open the Insert tab"
+        },
+        {
+            "key": "Alt + G",
+            "action": "Open the Design tab"
+        },
+        {
+            "key": "Alt + K",
+            "action": "Go to the Transitions tab"
+        },
+        {
+            "key": "Alt + A",
+            "action": "Go to the Animations tab"
+        },
+        {
+            "key": "Alt + S",
+            "action": "Go to the Slide Show tab"
+        },
+        {
+            "key": "Alt + R",
+            "action": "Go to the Review tab"
+        },
+        {
+            "key": "Alt + W",
+            "action": "Go to View tab"
+        },
+        {
+            "key": "Alt + X",
+            "action": "Go to the Add-ins tab"
+        },
+        {
+            "key": "Alt + Y",
+            "action": "Go to the Help tab"
+        }
+    ]
+}

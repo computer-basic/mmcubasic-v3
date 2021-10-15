@@ -1,0 +1,194 @@
+{
+    "first": [
+        {
+            "key": "Ctrl + 0",
+            "action": "Fit in the window"
+        },
+        {
+            "key": "Ctrl + 1",
+            "action": "Actual Size of the page"
+        },
+        {
+            "key": "Ctrl + 2",
+            "action": "200% of the page"
+        },
+        {
+            "key": "Ctrl + 3",
+            "action": "Define Style"
+        },
+        {
+            "key": "Ctrl + 4",
+            "action": "400 % of the page"
+        }
+    ],
+    "second": [
+        {
+            "key": "Ctrl + 5",
+            "action": "500% of the page"
+        },
+        {
+            "key": "Ctrl + 6",
+            "action": "Mask"
+        },
+        {
+            "key": "Ctrl + Shift + 6",
+            "action": "Unmask"
+        },
+        {
+            "key": "Ctrl + 7",
+            "action": "75% of the page"
+        },
+        {
+            "key": "Ctrl + A",
+            "action": "Select all in the page"
+        },
+        {
+            "key": "Ctrl + C",
+            "action": "Copy"
+        },
+        {
+            "key": "Ctrl + D",
+            "action": "Place"
+        },
+        {
+            "key": "Ctrl + Shift + D",
+            "action": "Link Manager"
+        },
+        {
+            "key": "Ctrl + E",
+            "action": "Edit story"
+        },
+        {
+            "key": "Ctrl + Shift + E",
+            "action": "Align Object"
+        },
+        {
+            "key": "Ctrl + Alt + E",
+            "action": "Text Wrap"
+        },
+        {
+            "key": "Ctrl + F",
+            "action": "Find"
+        },
+        {
+            "key": "Ctrl + Alt + F",
+            "action": "Frame option"
+        },
+        {
+            "key": "Ctrl + G",
+            "action": "Group"
+        },
+        {
+            "key": "Ctrl + Shift + G",
+            "action": "Ungroup"
+        },
+        {
+            "key": "Ctrl + H",
+            "action": "Change"
+        },
+        {
+            "key": "Ctrl + I",
+            "action": "Indents/Tabs"
+        },
+        {
+            "key": "Ctrl + Shift + I",
+            "action": "Italic"
+        },
+        {
+            "key": "Ctrl + J",
+            "action": "Show/Hide color"
+        },
+        {
+            "key": "Ctrl + Shift + J",
+            "action": "Justify"
+        },
+        {
+            "key": "Ctrl + K",
+            "action": "General"
+        },
+        {
+            "key": "Ctrl + Shift + K",
+            "action": "All Caps"
+        },
+        {
+            "key": "Ctrl + L",
+            "action": "Spelling"
+        },
+        {
+            "key": "Ctrl + Shift + L",
+            "action": "Left Align"
+        },
+        {
+            "key": "Ctrl + M",
+            "action": "Paragraph"
+        },
+        {
+            "key": "Ctrl + N",
+            "action": "New Document setup"
+        },
+        {
+            "key": "Ctrl + O",
+            "action": "Open"
+        },
+        {
+            "key": "Ctrl + P",
+            "action": "Print"
+        },
+        {
+            "key": "Ctrl + Shift + P",
+            "action": "Document setup"
+        },
+        {
+            "key": "Ctrl + Q",
+            "action": "Quite/Close the program"
+        },
+        {
+            "key": "Ctrl + R",
+            "action": "Show/Hide Ruler"
+        },
+        {
+            "key": "Ctrl + Shift + R",
+            "action": "Right Align"
+        },
+        {
+            "key": "Ctrl + S",
+            "action": "Save"
+        },
+        {
+            "key": "Ctrl + Shift + S",
+            "action": "Save As"
+        },
+        {
+            "key": "Ctrl + T",
+            "action": "Character Specs"
+        },
+        {
+            "key": "Ctrl + U",
+            "action": "File and Stroke"
+        },
+        {
+            "key": "Ctrl + Shift + U",
+            "action": "Underline"
+        },
+        {
+            "key": "Ctrl + V",
+            "action": "Paste"
+        },
+        {
+            "key": "Ctrl + Shift + V",
+            "action": "Reverse"
+        },
+        {
+            "key": "Ctrl + W",
+            "action": "Close"
+        },
+        {
+            "key": "Ctrl + Y",
+            "action": "Index entry"
+        },
+        {
+            "key": "Ctrl + Z",
+            "action": "Undo"
+        }
+    ]
+}

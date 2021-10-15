@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "title": "Computer Basic (1)",
+        "videoId": "YMd0huDaD64",
+        "videoUrl": "https://sendvid.com/b8g5emhm",
+        "duration": "17:38",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1wiXPHyI7D-O_NHWlolZugPLCKUVMIm7w",
+        "size": "58.8 MB",
+        "sort": 1
+    },
+    {
+        "id": 2,
+        "title": "Computer Basic (2)",
+        "videoId": "3vTu43pA2xs",
+        "videoUrl": "https://sendvid.com/pxt3tst5",
+        "duration": "9:27",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1G0Mi2kFpRj8LSgWnhiXDaWZGC7vhqv7F",
+        "size": "31.5 MB",
+        "sort": 2
+    },
+    {
+        "id": 3,
+        "title": "Computer Basic (3)",
+        "videoId": "Mbz2df4KQ2A",
+        "videoUrl": "https://sendvid.com/wbk1zsw0",
+        "duration": "9:37",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 3
+    },
+    {
+        "id": 4,
+        "title": "Computer Basic (4)",
+        "videoId": "gY-bgjNYXzU",
+        "videoUrl": "https://sendvid.com/v3qrsj78",
+        "duration": "8:42",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1H3hsyBVOMbJQscQsducAStMzi90U0f11",
+        "size": "31.7 MB",
+        "sort": 4
+    },
+    {
+        "id": 5,
+        "title": "Computer Basic (5)",
+        "videoId": "ChB-cOdloQ4",
+        "videoUrl": "https://sendvid.com/ntnkpsyf",
+        "duration": "4:34",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 5
+    },
+    {
+        "id": 6,
+        "title": "Computer Basic (6)",
+        "videoId": "ysvUyUoSLEM",
+        "videoUrl": "https://sendvid.com/skaoba0y",
+        "duration": "11:54",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1x-Nu0-Cy7Hlfbock_TlZr16MDFe6hr3E",
+        "size": "31.7 MB",
+        "sort": 6
+    },
+    {
+        "id": 7,
+        "title": "Computer Basic (7)",
+        "videoId": "doIqzzPazQc",
+        "videoUrl": "https://sendvid.com/wr7us7nh",
+        "duration": "6:10",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 7
+    },
+    {
+        "id": 8,
+        "title": "Computer Basic (8)",
+        "videoId": "wb8Kv-Slgmc",
+        "videoUrl": "https://sendvid.com/cp439key",
+        "duration": "3:47",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 8
+    },
+    {
+        "id": 9,
+        "title": "Computer Basic (9)",
+        "videoId": "ydOMgzVTbYU",
+        "videoUrl": "https://sendvid.com/9xrtds5h",
+        "duration": "5:58",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 9
+    },
+    {
+        "id": 10,
+        "title": "Computer Basic (10)",
+        "videoId": "LWz1hj5iKTc",
+        "videoUrl": "https://sendvid.com/qo3a6x32",
+        "duration": "5:28",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 10
+    },
+    {
+        "id": 11,
+        "title": "Computer Basic (11)",
+        "videoId": "vVkFz-ZjPts",
+        "videoUrl": "https://sendvid.com/vbe651fo",
+        "duration": "6:48",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 11
+    },
+    {
+        "id": 12,
+        "title": "Computer Basic (12)",
+        "videoId": "OW6OS_xi52I",
+        "videoUrl": "https://sendvid.com/jy6qx40v",
+        "duration": "6:51",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 12
+    },
+    {
+        "id": 13,
+        "title": "Computer Basic (13)",
+        "videoId": "HAzKK6snqwA",
+        "videoUrl": "https://sendvid.com/22ddj9hy",
+        "duration": "8:52",
+        "downloadUrl": "https://raw.githubusercontent.com/computer-basic/cubasic-lectures/main/lectures/basic/1/",
+        "size": "",
+        "sort": 13
+    }
+]

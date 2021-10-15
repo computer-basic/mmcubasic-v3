@@ -1,0 +1,13 @@
+{
+    "title": "Facebook Page!!",
+    "message": "Please like and follow our Facebook page to connect us. ",
+    "negative": "Cancel",
+    "positive": "Follow",
+    "show": false,
+    "force": false,
+    "type": "update",
+    "url": "https://www.facebook.com/myanmarcomputerbasic",
+    "directUrl": "https://play.google.com/store/apps/details?id=itsmcqsapp.com.computerscience",
+    "version": "2.0",
+    "icon":"https://i.imgur.com/sH7U9q4.png"
+}

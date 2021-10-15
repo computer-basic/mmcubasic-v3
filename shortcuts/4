@@ -1,0 +1,94 @@
+{
+    "first": [
+        {
+            "key": "Ctrl + W",
+            "action": "Close a workbook"
+        },
+        {
+            "key": "Ctrl + O",
+            "action": "Open a workbook"
+        },
+        {
+            "key": "Ctrl + S",
+            "action": "Save a workbook"
+        },
+        {
+            "key": "Ctrl + C",
+            "action": "Copy"
+        },
+        {
+            "key": "Ctrl + V",
+            "action": "Paste"
+        }
+    ],
+    "second": [
+        {
+            "key": "Ctrl + Z",
+            "action": "Undo"
+        },
+        {
+            "key": "Ctrl + X",
+            "action": "Cut"
+        },
+        {
+            "key": "Ctrl + B",
+            "action": "Bold"
+        },
+        {
+            "key": "Ctrl + 9",
+            "action": "Hide the selected rows"
+        },
+        {
+            "key": "Ctrl + 0",
+            "action": "Hide the selected columns"
+        },
+        {
+            "key": "Alt + H",
+            "action": "Go to the Home tab"
+        },
+        {
+            "key": "Delete",
+            "action": "Remove cell contents"
+        },
+        {
+            "key": "Alt + H, H",
+            "action": "Choose a fill color"
+        },
+        {
+            "key": "Alt + N",
+            "action": "Go to Insert tab"
+        },
+        {
+            "key": "Alt + H, A, C",
+            "action": "Center align cell contents"
+        },
+        {
+            "key": "Alt + P",
+            "action": "Go to Page Layout tab"
+        },
+        {
+            "key": "Alt + A",
+            "action": "Go to Data tab"
+        },
+        {
+            "key": "Alt + W",
+            "action": "Go to View tab"
+        },
+        {
+            "key": "Shift + F10",
+            "action": "Open context menu"
+        },
+        {
+            "key": "Alt + H, B",
+            "action": "Add borders"
+        },
+        {
+            "key": "Alt + H, D, C",
+            "action": "Delete column"
+        },
+        {
+            "key": "Alt + M",
+            "action": "Go to Formula tab"
+        }
+    ]
+}

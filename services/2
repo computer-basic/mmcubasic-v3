@@ -1,0 +1,34 @@
+[
+    {
+        "icon": "",
+        "name": "Technoland",
+        "address": "No.162 – 170, 36th Street (middle block), Kyauktada Township, Yangon",
+        "phone1": "09254839225",
+        "phone2": "09-254839226",
+        "url": "https://technoland.com.mm/"
+    },
+    {
+        "icon": "",
+        "name": "I.C.E Computer & Mobile",
+        "address": "No.44/45/46/47, Hledan Street, Lanmadaw Township, Yangon, Myanmar",
+        "phone1": "09262600420",
+        "phone2": "09896100139",
+        "url": "https://www.icecomputer.com.mm/"
+    },
+    {
+        "icon": "",
+        "name": "UNiQUE",
+        "address": "Pansodan, Yangon",
+        "phone1": "09891000100",
+        "phone2": "",
+        "url": "https://unique.com.mm/"
+    },
+    {
+        "icon": "",
+        "name": "UNiQUE",
+        "address": "No 171, U Chit Maung Road, Bahan Township, Yangon, Myanmar, 11201",
+        "phone1": "09891000300",
+        "phone2": "",
+        "url": "https://unique.com.mm/"
+    }
+]

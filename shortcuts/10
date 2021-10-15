@@ -1,0 +1,58 @@
+{
+    "first": [
+        {
+            "key": "A",
+            "action": "Arc"
+        },
+        {
+            "key": "B",
+            "action": "Paint Bucket"
+        },
+        {
+            "key": "C",
+            "action": "Circle"
+        },
+        {
+            "key": "E",
+            "action": "Eraser"
+        },
+        {
+            "key": "L",
+            "action": "Line"
+        }
+    ],
+    "second": [
+        {
+            "key": "M",
+            "action": "Move"
+        },
+        {
+            "key": "O",
+            "action": "Offset"
+        },
+        {
+            "key": "P",
+            "action": "Push/Pull"
+        },
+        {
+            "key": "Q",
+            "action": "Rotate"
+        },
+        {
+            "key": "R",
+            "action": "Rectangle"
+        },
+        {
+            "key": "S",
+            "action": "Scale"
+        },
+        {
+            "key": "Shift+Z",
+            "action": "Zoom Extents"
+        },
+        {
+            "key": "Spacebar",
+            "action": "Select"
+        }
+    ]
+}

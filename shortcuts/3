@@ -1,0 +1,98 @@
+{
+    "first": [
+        {
+            "key": "Home",
+            "action": "Beginning of line"
+        },
+        {
+            "key": "End",
+            "action": "End of line"
+        },
+        {
+            "key": "Ctrl + Home",
+            "action": "Go to start of document"
+        },
+        {
+            "key": "Ctrl + End",
+            "action": "Go to end of document"
+        },
+        {
+            "key": "Right Arrow",
+            "action": "Right one character"
+        }
+    ],
+    "second": [
+        {
+            "key": "Left Arrow",
+            "action": "Left one character"
+        },
+        {
+            "key": "Ctrl + Right Arrow",
+            "action": "Right one word"
+        },
+        {
+            "key": "Ctrl + Left Arrow",
+            "action": "Left one word"
+        },
+        {
+            "key": "Up Arrow",
+            "action": "Up one line"
+        },
+        {
+            "key": "Down Arrow",
+            "action": "Down one line"
+        },
+        {
+            "key": "Ctrl + Up Arrow",
+            "action": "Up one paragraph"
+        },
+        {
+            "key": "Ctrl + Down Arrow",
+            "action": "Down one paragraph"
+        },
+        {
+            "key": "F4",
+            "action": "Repeat last command"
+        },
+        {
+            "key": "Ctrl + A",
+            "action": "Select Whole Document"
+        },
+        {
+            "key": "Ctrl + B",
+            "action": "Bold"
+        },
+        {
+            "key": "Ctrl + I",
+            "action": "Italics"
+        },
+        {
+            "key": "Ctrl + U",
+            "action": "Underline"
+        },
+        {
+            "key": "Ctrl + Shift + L",
+            "action": "Bulleted list"
+        },
+        {
+            "key": "Ctrl + L",
+            "action": "Align left"
+        },
+        {
+            "key": "Ctrl + R",
+            "action": "Align right"
+        },
+        {
+            "key": "Ctrl + E",
+            "action": "Align centre"
+        },
+        {
+            "key": "Ctrl + [",
+            "action": "Shrink font size"
+        },
+        {
+            "key": "Ctrl + ]",
+            "action": "Grow font size"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "first": [
+        {
+            "key": "A",
+            "action": "Record Audio"
+        },
+        {
+            "key": "P",
+            "action": "Launch Pen Tool"
+        },
+        {
+            "key": "O",
+            "action": "Launch Rotation Tool"
+        },
+        {
+            "key": "V",
+            "action": "Launch Selection Tool"
+        },
+        {
+            "key": "R",
+            "action": "Rewind Capture"
+        }
+    ],
+    "second": [
+        {
+            "key": "S",
+            "action": "Stop Capture"
+        },
+        {
+            "key": "Spacebar",
+            "action": "Quick Play"
+        },
+        {
+            "key": "F5",
+            "action": "Capture Footage"
+        },
+        {
+            "key": "Alt + =",
+            "action": "Audio track height increase"
+        },
+        {
+            "key": "Alt + -",
+            "action": "Audio track height decrase"
+        },
+        {
+            "key": "Control + Shift + Space",
+            "action": "Play - In to Out"
+        },
+        {
+            "key": "Control + Alt + T",
+            "action": "Show / Hide Tracks"
+        },
+        {
+            "key": "Control + L",
+            "action": "Play media as a loop"
+        },
+        {
+            "key": "Control + Alt + 0",
+            "action": "Toggle Source Video (All)"
+        },
+        {
+            "key": "Control + Alt + 9",
+            "action": "Toggle Source Audio (All)"
+        },
+        {
+            "key": "Ctrl + `",
+            "action": "Toogle Full Screen"
+        },
+        {
+            "key": "Shift + H",
+            "action": "Hover Scrub"
+        },
+        {
+            "key": "Shift + O",
+            "action": "Open in Source Monitor"
+        },
+        {
+            "key": "Shift + K",
+            "action": "Play - Around (plays preset before and after time)"
+        },
+        {
+            "key": "Shift + \\",
+            "action": "Toggle Project Panel Review"
+        },
+        {
+            "key": "Shift + 0",
+            "action": "Toggle Multi-Camera View"
+        },
+        {
+            "key": "Shift + S",
+            "action": "Toggle Audio Scrubber"
+        }
+    ]
+}

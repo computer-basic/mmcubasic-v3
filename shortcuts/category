@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Window",
+        "thumbnail": "https://i.imgur.com/ibs9TEx.png"
+    },
+    {
+        "id": 2,
+        "title": "Mac OS",
+        "thumbnail": "https://i.imgur.com/SBIcj1H.png"
+    },
+    {
+        "id": 3,
+        "title": "Microsoft Word",
+        "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
+    },
+    {
+        "id": 4,
+        "title": "Microsoft Excel",
+        "thumbnail": "https://i.imgur.com/cOtAvFa.png"
+    },
+    {
+        "id": 5,
+        "title": "Microsoft PowerPoint",
+        "thumbnail": "https://i.imgur.com/7tU0XjV.png"
+    },
+    {
+        "id": 6,
+        "title": "Adobe Photoshop",
+        "thumbnail": "https://i.imgur.com/CFIrhBo.png"
+    },
+    {
+        "id": 7,
+        "title": "Adobe Premier Pro",
+        "thumbnail": "https://i.imgur.com/eX0GGCl.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Adobe Pagemaker",
+        "thumbnail": "https://i.imgur.com/wQR4kCA.jpg"
+    },
+    {
+        "id": 9,
+        "title": "AutoCAD",
+        "thumbnail": "https://i.imgur.com/inDO4kO.png"
+    },
+    {
+        "id": 10,
+        "title": "SketchUp",
+        "thumbnail": "https://i.imgur.com/fv8Uwky.png"
+    }
+]

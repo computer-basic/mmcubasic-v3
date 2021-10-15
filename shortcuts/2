@@ -1,0 +1,106 @@
+{
+    "first": [
+        {
+            "key": "⌘",
+            "action": "Command"
+        },
+        {
+            "key": "⌥",
+            "action": "Option"
+        },
+        {
+            "key": "⇧",
+            "action": "Shift"
+        },
+        {
+            "key": "⌃",
+            "action": "Control"
+        },
+        {
+            "key": "⇪",
+            "action": "Caps Lock"
+        },
+        {
+            "key": "fn",
+            "action": "Function"
+        }
+    ],
+    "second": [
+        {
+            "key": "⌘ + C",
+            "action": "Copy"
+        },
+        {
+            "key": "⌘ + V",
+            "action": "Paste"
+        },
+        {
+            "key": "⌘ + X",
+            "action": "Cut"
+        },
+        {
+            "key": "⌘ + Z",
+            "action": "Undo"
+        },
+        {
+            "key": "⌘ + ⇧ + Z",
+            "action": "Redo"
+        },
+        {
+            "key": "⌘ + A",
+            "action": "Select All"
+        },
+        {
+            "key": "⌘ + F",
+            "action": "Find"
+        },
+        {
+            "key": "⌘ + S",
+            "action": "Save"
+        },
+        {
+            "key": "⌘ + H",
+            "action": "Hide"
+        },
+        {
+            "key": "⌘ + M",
+            "action": "Minimize"
+        },
+        {
+            "key": "⌘ + N",
+            "action": "New"
+        },
+        {
+            "key": "⌘ + O",
+            "action": "Open"
+        },
+        {
+            "key": "⌘ + P",
+            "action": "Print"
+        },
+        {
+            "key": "⌘ + W",
+            "action": "Close window"
+        },
+        {
+            "key": "⌘ + Q",
+            "action": "Quit"
+        },
+        {
+            "key": "⌘ + Space bar",
+            "action": "Spotlight Search"
+        },
+        {
+            "key": "⌘ + Y",
+            "action": "Preview"
+        },
+        {
+            "key": "⌘ + Delete",
+            "action": "Delete"
+        },
+        {
+            "key": "⌘ + ⇧ + Delete",
+            "action": "Permanent Delete"
+        }
+    ]
+}

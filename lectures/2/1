@@ -10,16 +10,6 @@
         "sort": 126
     },
     {
-        "id": 127,
-        "title": "Open Gmail account with phone",
-        "videoId": "auMINScFW0o",
-        "videoUrl": "https://sendvid.com/qd8t1b8o",
-        "duration": "6:12",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 127
-    },
-    {
         "id": 128,
         "title": "Gmail 2 Steps",
         "videoId": "n5gOS-fFYlg",
@@ -41,7 +31,7 @@
     },
     {
         "id": 130,
-        "title": "Window 7 remove password",
+        "title": "Window 7 close password",
         "videoId": "wBDK4kBGBqw",
         "videoUrl": "https://sendvid.com/1c2xwi7w",
         "duration": "3:28",
@@ -50,18 +40,8 @@
         "sort": 130
     },
     {
-        "id": 131,
-        "title": "Close Window security",
-        "videoId": "DkIYDqDo-mo",
-        "videoUrl": "https://sendvid.com/982hs2je",
-        "duration": "3:14",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 131
-    },
-    {
         "id": 132,
-        "title": "Delete Software",
+        "title": "Uninstall Software",
         "videoId": "QuCwtSFImQ8",
         "videoUrl": "https://sendvid.com/3h89jcr1",
         "duration": "2:11",
@@ -90,18 +70,8 @@
         "sort": 134
     },
     {
-        "id": 137,
-        "title": "Download computer software",
-        "videoId": "-kDAcMdsNIs",
-        "videoUrl": "https://sendvid.com/pjpaj9ys",
-        "duration": "6:21",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 137
-    },
-    {
         "id": 138,
-        "title": "Windows 10 close Auto Update",
+        "title": "Close Windows 10 auto update",
         "videoId": "o4qnZcpR3Mk",
         "videoUrl": "https://sendvid.com/0k23lvnx",
         "duration": "2:16",
@@ -131,7 +101,7 @@
     },
     {
         "id": 141,
-        "title": "How to convector PDF To JPEG or Word",
+        "title": "How to convector PDF To JPEG in word",
         "videoId": "b4wUOyOIDnM",
         "videoUrl": "https://sendvid.com/kragw06c",
         "duration": "3:27",
@@ -178,16 +148,6 @@
         "downloadUrl": "",
         "size": "",
         "sort": 147
-    },
-    {
-        "id": 148,
-        "title": "Table in Microsoft Word",
-        "videoId": "x4gDGT-pUgI",
-        "videoUrl": "https://sendvid.com/uus8g389",
-        "duration": "4:15",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 148
     },
     {
         "id": 149,
@@ -240,16 +200,6 @@
         "sort": 154
     },
     {
-        "id": 155,
-        "title": "How to decrease and increase light in windows 10",
-        "videoId": "GNC9TbY8tFE",
-        "videoUrl": "https://sendvid.com/q2rmvqap",
-        "duration": "1:56",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 155
-    },
-    {
         "id": 156,
         "title": "How to use phone internet in computer",
         "videoId": "nDqJsa4n_bI",
@@ -288,36 +238,6 @@
         "downloadUrl": "",
         "size": "",
         "sort": 159
-    },
-    {
-        "id": 160,
-        "title": "How to download from links",
-        "videoId": "STvv14xsKzw",
-        "videoUrl": "https://sendvid.com/r2sip31q",
-        "duration": "6:03",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 160
-    },
-    {
-        "id": 161,
-        "title": "How to download Facebook videos",
-        "videoId": "DHvYZZhiFjc",
-        "videoUrl": "https://sendvid.com/7tzxk8do",
-        "duration": "5:52",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 161
-    },
-    {
-        "id": 162,
-        "title": "How to close software",
-        "videoId": "OSgtDykPPJk",
-        "videoUrl": "https://sendvid.com/zjgrr1zy",
-        "duration": "2:54",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 162
     },
     {
         "id": 163,
@@ -450,16 +370,6 @@
         "sort": 176
     },
     {
-        "id": 177,
-        "title": "Adobe PageMaker 7.0 installation",
-        "videoId": "m4rC0R0_fcY",
-        "videoUrl": "https://sendvid.com/dn9il8s8",
-        "duration": "10:07",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 177
-    },
-    {
         "id": 178,
         "title": "Computer and Bluetooth speaker",
         "videoId": "qS5zReIxWX0",
@@ -540,26 +450,6 @@
         "sort": 185
     },
     {
-        "id": 186,
-        "title": "Download facebook videos",
-        "videoId": "qhxXSmRNSF0",
-        "videoUrl": "https://sendvid.com/zh1vnrba",
-        "duration": "10:43",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 186
-    },
-    {
-        "id": 188,
-        "title": "Window installation",
-        "videoId": "xLh0aD2o620",
-        "videoUrl": "https://sendvid.com/qactmp05",
-        "duration": "24:53",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 188
-    },
-    {
         "id": 189,
         "title": "Change tablet mode",
         "videoId": "RSYvrghuY6Q",
@@ -588,16 +478,6 @@
         "downloadUrl": "",
         "size": "",
         "sort": 192
-    },
-    {
-        "id": 195,
-        "title": "Install Driver",
-        "videoId": "rvBG2Khu4Do",
-        "videoUrl": "https://sendvid.com/bvdfenuu",
-        "duration": "9:51",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 195
     },
     {
         "id": 197,
@@ -641,7 +521,7 @@
     },
     {
         "id": 201,
-        "title": "Windows 8/8.1/10 insert Gadget",
+        "title": "Windows 8/8.1/10 Gadget",
         "videoId": "GDOitZZ41dc",
         "videoUrl": "https://sendvid.com/j6yolja0",
         "duration": "5:03",
@@ -750,16 +630,6 @@
         "sort": 383
     },
     {
-        "id": 384,
-        "title": "Watch football",
-        "videoId": "A15ZMVIwmuM",
-        "videoUrl": "https://sendvid.com/71dlrs7c",
-        "duration": "2:18",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 384
-    },
-    {
         "id": 385,
         "title": "Send Gmail",
         "videoId": "x6daMdZDFmA",
@@ -858,26 +728,6 @@
         "downloadUrl": "",
         "size": "",
         "sort": 419
-    },
-    {
-        "id": 420,
-        "title": "Download Window ISO file",
-        "videoId": "FXHnz3ShRo0",
-        "videoUrl": "https://sendvid.com/qfdf5jeq",
-        "duration": "13:43",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 420
-    },
-    {
-        "id": 421,
-        "title": "Delete computer software",
-        "videoId": "znHBLs5mlaY",
-        "videoUrl": "https://sendvid.com/1k3bdmq4",
-        "duration": "4:23",
-        "downloadUrl": "",
-        "size": "",
-        "sort": 421
     },
     {
         "id": 422,

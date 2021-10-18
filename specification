@@ -1,0 +1,58 @@
+{
+    "category": [
+        {
+            "rank": 1,
+            "name": "Office Use"
+        },
+        {
+            "rank": 1,
+            "name": "Web Browsing"
+        },
+        {
+            "rank": 2,
+            "name": "Video Editing"
+        },
+        {
+            "rank": 2,
+            "name": "Grphic Design"
+        },
+        {
+            "rank": 2,
+            "name": "Gaming"
+        },
+        {
+            "rank": 3,
+            "name": "Programming"
+        }
+    ],
+    "normalUse": [
+        {
+            "rank": 1,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        }
+    ],
+    "heavyUse": [
+        {
+            "rank": 1,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        }
+    ]
+}

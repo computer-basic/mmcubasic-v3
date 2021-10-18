@@ -1,5 +1,5 @@
 {
-    "category": [
+    "usage": [
         {
             "rank": 1,
             "name": "Office Use"
@@ -25,7 +25,7 @@
             "name": "Programming"
         }
     ],
-    "normalUse": [
+    "minimalSpec": [
         {
             "rank": 1,
             "cpu": "Core i3",
@@ -40,7 +40,7 @@
             "recommendedStorage": "512 GB"
         }
     ],
-    "heavyUse": [
+    "recommendedSpec": [
         {
             "rank": 1,
             "cpu": "Core i3",

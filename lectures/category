@@ -6,6 +6,12 @@
         "thumbnail": "https://i.imgur.com/Mm25NHG.png"
     },
     {
+        "id": 2,
+        "title": "Computer Knowledge",
+        "server": "youtub",
+        "thumbnail": "https://i.imgur.com/aqpUxj0.png"
+    },
+    {
         "id": 3,
         "title": "Microsoft Word",
         "server": "youtub",

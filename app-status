@@ -1,6 +1,6 @@
 {
     "title": "Server Alert",
-    "message": "Myanmar Computer Basic V3 အတွက် server အခက်အခဲဖြစ်နေပါတယ် အသေးစိတ်ဖတ်ရန် Read ကိုနှိပ်ပါ",
+    "message": "App ဆက် run ရန်အတွက် server အခက်အခဲဖြစ်နေပါတယ် server ဖိုးအကူအညီမလောက်ပါက သင်ခန်းစာတချို့အား ဖြုတ်ချသွားပါမယ် အသေးစိတ်ဖတ်ရန် Read ကိုနှိပ်ပါ",
     "negative": "Cancel",
     "positive": "Read",
     "show": true,

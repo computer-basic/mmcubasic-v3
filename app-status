@@ -1,6 +1,6 @@
 {
     "title": "Server Alert",
-    "message": "KBZ Pay ဖြင့် server ဖိုးကူညီနိုင်ပေးနိုင်ပါပြီခင်ဗျ အသေးစိတ်ဖတ်ရန် Read ကိုနှိပ်ပါ",
+    "message": "Server ဖိုး အကူအညီ 35% သာရရှိပါသေးသဖြင့် လကုန်လျှင် သင်ခန်းစာအချို့နှင့် Download function အားဖြုတ်ချသွားပါမယ်ခင်ဗျ",
     "negative": "Cancel",
     "positive": "Read",
     "show": true,

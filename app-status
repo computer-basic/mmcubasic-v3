@@ -1,6 +1,6 @@
 {
     "title": "Server Alert",
-    "message": "Server ဖိုး အကူအညီ 35% သာရရှိပါသေးသဖြင့် လကုန်လျှင် သင်ခန်းစာအချို့နှင့် Download function အားဖြုတ်ချသွားပါမယ်ခင်ဗျ",
+    "message": "Server အလုံအလောက်မရခဲ့သည့်အတွက် ၁ ရက်နေ့တွင် သင်ခန်းစာအချို့နှင့် Download function အားဖြုတ်ချသွားပါမယ်ခင်ဗျ",
     "negative": "Cancel",
     "positive": "Read",
     "show": true,

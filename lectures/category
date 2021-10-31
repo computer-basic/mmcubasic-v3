@@ -1,39 +1,9 @@
 [
     {
-        "id": 1,
-        "title": "Computer Basic",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/Mm25NHG.png"
-    },
-    {
-        "id": 2,
-        "title": "Computer Knowledge",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/aqpUxj0.png"
-    },
-    {
-        "id": 3,
-        "title": "Microsoft Word",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/7mCE7Zz.png"
-    },
-    {
         "id": 4,
         "title": "Microsoft Excel",
         "server": "youtub",
         "thumbnail": "https://i.imgur.com/cOtAvFa.png"
-    },
-    {
-        "id": 5,
-        "title": "Microsoft PowerPoint",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/7tU0XjV.png"
-    },
-    {
-        "id": 6,
-        "title": "Adobe Photoshop",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/CFIrhBo.png"
     },
     {
         "id": 7,
@@ -46,12 +16,6 @@
         "title": "Adobe Illustrator",
         "server": "youtub",
         "thumbnail": "https://i.imgur.com/lM1kG7G.png"
-    },
-    {
-        "id": 8,
-        "title": "Adobe Pagemaker",
-        "server": "youtub",
-        "thumbnail": "https://i.imgur.com/wQR4kCA.jpg"
     },
     {
         "id": 9,

@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "categoryId": 7,
         "title": "Adobe Premier Pro"
     }
 ]

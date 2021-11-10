@@ -1,10 +1,12 @@
 [
     {
         "id": 2,
+        "categoryId": 2,
         "title": "Beginner Questions"
     },
     {
         "id": 1,
+        "categoryId": 2,
         "title": "Computer Knowledge"
     }
 ]

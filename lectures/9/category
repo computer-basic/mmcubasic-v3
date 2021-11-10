@@ -1,14 +1,17 @@
 [
     {
         "id": 1,
+        "categoryId": 9,
         "title": "AutoCAD (Basic)"
     },
     {
         "id": 2,
+        "categoryId": 9,
         "title": "AutoCAD 2021"
     },
     {
         "id": 3,
+        "categoryId": 9,
         "title": "AutoCAD (Advance)"
     }
 ]

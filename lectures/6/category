@@ -1,14 +1,17 @@
 [
     {
         "id": 1,
+        "categoryId": 6,
         "title": "Photoshop 1"
     },
     {
         "id": 2,
+        "categoryId": 6,
         "title": "Photoshop 2"
     },
     {
         "id": 3,
+        "categoryId": 6,
         "title": "Photoshop 3"
     }
 ]

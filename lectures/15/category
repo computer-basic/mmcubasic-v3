@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "categoryId": 15,
         "title": "Adobe Illustrator"
     }
 ]

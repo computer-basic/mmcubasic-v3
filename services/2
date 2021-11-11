@@ -1,5 +1,6 @@
 [
     {
+        "id": 2,
         "icon": "",
         "name": "Technoland",
         "address": "No.162 – 170, 36th Street (middle block), Kyauktada Township, Yangon",
@@ -8,6 +9,7 @@
         "url": "https://technoland.com.mm/"
     },
     {
+        "id": 2,
         "icon": "",
         "name": "I.C.E Computer & Mobile",
         "address": "No.44/45/46/47, Hledan Street, Lanmadaw Township, Yangon, Myanmar",
@@ -16,6 +18,7 @@
         "url": "https://www.icecomputer.com.mm/"
     },
     {
+        "id": 2,
         "icon": "",
         "name": "UNiQUE",
         "address": "Pansodan, Yangon",
@@ -24,6 +27,7 @@
         "url": "https://unique.com.mm/"
     },
     {
+        "id": 2,
         "icon": "",
         "name": "UNiQUE",
         "address": "No 171, U Chit Maung Road, Bahan Township, Yangon, Myanmar, 11201",

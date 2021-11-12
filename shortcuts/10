@@ -1,56 +1,69 @@
 {
     "first": [
         {
+            "softwareId": 10,
             "key": "A",
             "action": "Arc"
         },
         {
+            "softwareId": 10,
             "key": "B",
             "action": "Paint Bucket"
         },
         {
+            "softwareId": 10,
             "key": "C",
             "action": "Circle"
         },
         {
+            "softwareId": 10,
             "key": "E",
             "action": "Eraser"
         },
         {
+            "softwareId": 10,
             "key": "L",
             "action": "Line"
         }
     ],
     "second": [
         {
+            "softwareId": 10,
             "key": "M",
             "action": "Move"
         },
         {
+            "softwareId": 10,
             "key": "O",
             "action": "Offset"
         },
         {
+            "softwareId": 10,
             "key": "P",
             "action": "Push/Pull"
         },
         {
+            "softwareId": 10,
             "key": "Q",
             "action": "Rotate"
         },
         {
+            "softwareId": 10,
             "key": "R",
             "action": "Rectangle"
         },
         {
+            "softwareId": 10,
             "key": "S",
             "action": "Scale"
         },
         {
+            "softwareId": 10,
             "key": "Shift+Z",
             "action": "Zoom Extents"
         },
         {
+            "softwareId": 10,
             "key": "Spacebar",
             "action": "Select"
         }

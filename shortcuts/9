@@ -1,108 +1,134 @@
 {
     "first": [
         {
+            "softwareId": 9,
             "key": "Ctrl + 0",
             "action": "Clean Screen"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 1",
             "action": "Property Palette"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 2",
             "action": "Design Center Palette"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 3",
             "action": "Tool Palette"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 4",
             "action": "Sheet Set Palette"
         }
     ],
     "second": [
         {
+            "softwareId": 9,
             "key": "Ctrl + 6",
             "action": "DBConnect Manager"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 7",
             "action": "Markup Set Manager Palette"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 8",
             "action": "Quick Calc"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + 9",
             "action": "Command Line"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + E",
             "action": "Cycle isometric planes"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + F",
             "action": "Toggle running object snaps"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + G",
             "action": "Toggle Grid"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + H",
             "action": "Toggle Pick Style"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Shift + H",
             "action": "Toggle Hide pallets"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + I",
             "action": "Toggle Coords"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Shift + I",
             "action": "Toggle Infer Constraints"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + N",
             "action": "New Drawing"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + O",
             "action": "Open drawing"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + P",
             "action": "Plot dialog box"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Q",
             "action": "Exit"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + S",
             "action": "Save drawing"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Shift + S",
             "action": "Save drawing as"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Tab",
             "action": "Switch to next"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Shift + Tab",
             "action": "Switch to previous drawing"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Page Up",
             "action": "Switch to previous tab in current drawing"
         },
         {
+            "softwareId": 9,
             "key": "Ctrl + Page Down",
             "action": "Switch to next tab in current drawing"
         }

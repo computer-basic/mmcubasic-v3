@@ -1,92 +1,114 @@
 {
     "first": [
         {
+            "softwareId": 7,
             "key": "A",
             "action": "Record Audio"
         },
         {
+            "softwareId": 7,
             "key": "P",
             "action": "Launch Pen Tool"
         },
         {
+            "softwareId": 7,
             "key": "O",
             "action": "Launch Rotation Tool"
         },
         {
+            "softwareId": 7,
             "key": "V",
             "action": "Launch Selection Tool"
         },
         {
+            "softwareId": 7,
             "key": "R",
             "action": "Rewind Capture"
         }
     ],
     "second": [
         {
+            "softwareId": 7,
             "key": "S",
             "action": "Stop Capture"
         },
         {
+            "softwareId": 7,
             "key": "Spacebar",
             "action": "Quick Play"
         },
         {
+            "softwareId": 7,
             "key": "F5",
             "action": "Capture Footage"
         },
         {
+            "softwareId": 7,
             "key": "Alt + =",
             "action": "Audio track height increase"
         },
         {
+            "softwareId": 7,
             "key": "Alt + -",
             "action": "Audio track height decrase"
         },
         {
+            "softwareId": 7,
             "key": "Control + Shift + Space",
             "action": "Play - In to Out"
         },
         {
+            "softwareId": 7,
             "key": "Control + Alt + T",
             "action": "Show / Hide Tracks"
         },
         {
+            "softwareId": 7,
             "key": "Control + L",
             "action": "Play media as a loop"
         },
         {
+            "softwareId": 7,
             "key": "Control + Alt + 0",
             "action": "Toggle Source Video (All)"
         },
         {
+            "softwareId": 7,
             "key": "Control + Alt + 9",
             "action": "Toggle Source Audio (All)"
         },
         {
+            "softwareId": 7,
             "key": "Ctrl + `",
             "action": "Toogle Full Screen"
         },
         {
+            "softwareId": 7,
             "key": "Shift + H",
             "action": "Hover Scrub"
         },
         {
+            "softwareId": 7,
             "key": "Shift + O",
             "action": "Open in Source Monitor"
         },
         {
+            "softwareId": 7,
             "key": "Shift + K",
             "action": "Play - Around (plays preset before and after time)"
         },
         {
+            "softwareId": 7,
             "key": "Shift + \\",
             "action": "Toggle Project Panel Review"
         },
         {
+            "softwareId": 7,
             "key": "Shift + 0",
             "action": "Toggle Multi-Camera View"
         },
         {
+            "softwareId": 7,
             "key": "Shift + S",
             "action": "Toggle Audio Scrubber"
         }

@@ -1,108 +1,134 @@
 {
     "first": [
         {
+            "softwareId": 5,
             "key": "Ctrl + N",
             "action": "Create a new presentation document"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + O",
             "action": "Open an existing presentation document"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + S",
             "action": "Save a presentation"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + W",
             "action": "Close a presentation"
         }
     ],
     "second": [
         {
+            "softwareId": 5,
             "key": "Ctrl + Q",
             "action": "Save and close a presentation"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + Z",
             "action": "Undo"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + Y",
             "action": "Redo"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + F2",
             "action": "Print Preview View"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + Tab",
             "action": "Switch between open presentations"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + F1",
             "action": "Show or hide the ribbon"
         },
         {
+            "softwareId": 5,
             "key": "Ctrl + F",
             "action": "Search in a presentation or use Find and Replace"
         },
         {
+            "softwareId": 5,
             "key": "F1",
             "action": "Open the Help pane"
         },
         {
+            "softwareId": 5,
             "key": "F7",
             "action": "Check for spellings"
         },
         {
+            "softwareId": 5,
             "key": "Alt + F2",
             "action": "Open the Save As dialog box"
         },
         {
+            "softwareId": 5,
             "key": "Alt or F10",
             "action": "Turn the key tips to ‘on’ or ‘off’"
         },
         {
+            "softwareId": 5,
             "key": "Alt + F",
             "action": "Open the File tab menu"
         },
         {
+            "softwareId": 5,
             "key": "Alt + H",
             "action": "Go to the Home tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + N",
             "action": "Open the Insert tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + G",
             "action": "Open the Design tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + K",
             "action": "Go to the Transitions tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + A",
             "action": "Go to the Animations tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + S",
             "action": "Go to the Slide Show tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + R",
             "action": "Go to the Review tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + W",
             "action": "Go to View tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + X",
             "action": "Go to the Add-ins tab"
         },
         {
+            "softwareId": 5,
             "key": "Alt + Y",
             "action": "Go to the Help tab"
         }

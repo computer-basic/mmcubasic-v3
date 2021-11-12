@@ -1,192 +1,239 @@
 {
     "first": [
         {
+            "softwareId": 8,
             "key": "Ctrl + 0",
             "action": "Fit in the window"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + 1",
             "action": "Actual Size of the page"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + 2",
             "action": "200% of the page"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + 3",
             "action": "Define Style"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + 4",
             "action": "400 % of the page"
         }
     ],
     "second": [
         {
+            "softwareId": 8,
             "key": "Ctrl + 5",
             "action": "500% of the page"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + 6",
             "action": "Mask"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + 6",
             "action": "Unmask"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + 7",
             "action": "75% of the page"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + A",
             "action": "Select all in the page"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + C",
             "action": "Copy"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + D",
             "action": "Place"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + D",
             "action": "Link Manager"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + E",
             "action": "Edit story"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + E",
             "action": "Align Object"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Alt + E",
             "action": "Text Wrap"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + F",
             "action": "Find"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Alt + F",
             "action": "Frame option"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + G",
             "action": "Group"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + G",
             "action": "Ungroup"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + H",
             "action": "Change"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + I",
             "action": "Indents/Tabs"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + I",
             "action": "Italic"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + J",
             "action": "Show/Hide color"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + J",
             "action": "Justify"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + K",
             "action": "General"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + K",
             "action": "All Caps"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + L",
             "action": "Spelling"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + L",
             "action": "Left Align"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + M",
             "action": "Paragraph"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + N",
             "action": "New Document setup"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + O",
             "action": "Open"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + P",
             "action": "Print"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + P",
             "action": "Document setup"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Q",
             "action": "Quite/Close the program"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + R",
             "action": "Show/Hide Ruler"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + R",
             "action": "Right Align"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + S",
             "action": "Save"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + S",
             "action": "Save As"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + T",
             "action": "Character Specs"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + U",
             "action": "File and Stroke"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + U",
             "action": "Underline"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + V",
             "action": "Paste"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Shift + V",
             "action": "Reverse"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + W",
             "action": "Close"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Y",
             "action": "Index entry"
         },
         {
+            "softwareId": 8,
             "key": "Ctrl + Z",
             "action": "Undo"
         }

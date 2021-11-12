@@ -1,104 +1,129 @@
 {
     "first": [
         {
+            "softwareId": 2,
             "key": "⌘",
             "action": "Command"
         },
         {
+            "softwareId": 2,
             "key": "⌥",
             "action": "Option"
         },
         {
+            "softwareId": 2,
             "key": "⇧",
             "action": "Shift"
         },
         {
+            "softwareId": 2,
             "key": "⌃",
             "action": "Control"
         },
         {
+            "softwareId": 2,
             "key": "⇪",
             "action": "Caps Lock"
         },
         {
+            "softwareId": 2,
             "key": "fn",
             "action": "Function"
         }
     ],
     "second": [
         {
+            "softwareId": 2,
             "key": "⌘ + C",
             "action": "Copy"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + V",
             "action": "Paste"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + X",
             "action": "Cut"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + Z",
             "action": "Undo"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + ⇧ + Z",
             "action": "Redo"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + A",
             "action": "Select All"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + F",
             "action": "Find"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + S",
             "action": "Save"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + H",
             "action": "Hide"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + M",
             "action": "Minimize"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + N",
             "action": "New"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + O",
             "action": "Open"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + P",
             "action": "Print"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + W",
             "action": "Close window"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + Q",
             "action": "Quit"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + Space bar",
             "action": "Spotlight Search"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + Y",
             "action": "Preview"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + Delete",
             "action": "Delete"
         },
         {
+            "softwareId": 2,
             "key": "⌘ + ⇧ + Delete",
             "action": "Permanent Delete"
         }

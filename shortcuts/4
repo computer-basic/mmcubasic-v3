@@ -1,92 +1,114 @@
 {
     "first": [
         {
+            "softwareId": 4,
             "key": "Ctrl + W",
             "action": "Close a workbook"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + O",
             "action": "Open a workbook"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + S",
             "action": "Save a workbook"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + C",
             "action": "Copy"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + V",
             "action": "Paste"
         }
     ],
     "second": [
         {
+            "softwareId": 4,
             "key": "Ctrl + Z",
             "action": "Undo"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + X",
             "action": "Cut"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + B",
             "action": "Bold"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + 9",
             "action": "Hide the selected rows"
         },
         {
+            "softwareId": 4,
             "key": "Ctrl + 0",
             "action": "Hide the selected columns"
         },
         {
+            "softwareId": 4,
             "key": "Alt + H",
             "action": "Go to the Home tab"
         },
         {
+            "softwareId": 4,
             "key": "Delete",
             "action": "Remove cell contents"
         },
         {
+            "softwareId": 4,
             "key": "Alt + H, H",
             "action": "Choose a fill color"
         },
         {
+            "softwareId": 4,
             "key": "Alt + N",
             "action": "Go to Insert tab"
         },
         {
+            "softwareId": 4,
             "key": "Alt + H, A, C",
             "action": "Center align cell contents"
         },
         {
+            "softwareId": 4,
             "key": "Alt + P",
             "action": "Go to Page Layout tab"
         },
         {
+            "softwareId": 4,
             "key": "Alt + A",
             "action": "Go to Data tab"
         },
         {
+            "softwareId": 4,
             "key": "Alt + W",
             "action": "Go to View tab"
         },
         {
+            "softwareId": 4,
             "key": "Shift + F10",
             "action": "Open context menu"
         },
         {
+            "softwareId": 4,
             "key": "Alt + H, B",
             "action": "Add borders"
         },
         {
+            "softwareId": 4,
             "key": "Alt + H, D, C",
             "action": "Delete column"
         },
         {
+            "softwareId": 4,
             "key": "Alt + M",
             "action": "Go to Formula tab"
         }

@@ -1,104 +1,129 @@
 {
     "first": [
         {
+            "softwareId": 1,
             "key": "Ctrl + A",
             "action": "Select All"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + C",
             "action": "Copy"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + E",
             "action": "Select the Search Box"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + F",
             "action": "Find"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + H",
             "action": "Find and Replace"
         }
     ],
     "second": [
         {
+            "softwareId": 1,
             "key": "Ctrl + N",
             "action": "Open a New Window"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + V",
             "action": "Paste"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + X",
             "action": "Cut"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + Z",
             "action": "Undo"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + Mouse Scroll Wheel",
             "action": "Zoom In/Out"
         },
         {
+            "softwareId": 1,
             "key": "Ctrl + Alt + Del",
             "action": "Start Task Manager"
         },
         {
+            "softwareId": 1,
             "key": "Alt + Tab",
             "action": "Switch Screen/Tabs"
         },
         {
+            "softwareId": 1,
             "key": "Alt + F4",
             "action": "Close App"
         },
         {
+            "softwareId": 1,
             "key": "Win + L",
             "action": "Lock Screen"
         },
         {
+            "softwareId": 1,
             "key": "Win + D",
             "action": "Show Desktop"
         },
         {
+            "softwareId": 1,
             "key": "Win + Tab",
             "action": "Toggle Task View"
         },
         {
+            "softwareId": 1,
             "key": "Win + C",
             "action": "Opens Cortana"
         },
         {
+            "softwareId": 1,
             "key": "Win + Prt Sc",
             "action": "Save Screenshot"
         },
         {
+            "softwareId": 1,
             "key": "Win + I",
             "action": "Open Settings"
         },
         {
+            "softwareId": 1,
             "key": "Win + S",
             "action": "Search for Windows"
         },
         {
+            "softwareId": 1,
             "key": "Fn + F2",
             "action": "Rename"
         },
         {
+            "softwareId": 1,
             "key": "Fn + F5",
             "action": "Refresh"
         },
         {
+            "softwareId": 1,
             "key": "Win + X",
             "action": "Hidden Menu"
         },
         {
+            "softwareId": 1,
             "key": "Win + V",
             "action": "Navigate Through Notifications"
         },
         {
+            "softwareId": 1,
             "key": "Win + Ctrl + B",
             "action": "Open App That Displayed a Notification"
         }

@@ -1,0 +1,118 @@
+{
+    "category": [
+        {
+            "rank": 1,
+            "name": "Office Use"
+        },
+        {
+            "rank": 1,
+            "name": "Web Browsing"
+        },
+        {
+            "rank": 1,
+            "name": "Online Learning"
+        },
+        {
+            "rank": 2,
+            "name": "Programming"
+        },
+        {
+            "rank": 3,
+            "name": "Video Editing"
+        },
+        {
+            "rank": 3,
+            "name": "Grphic Design"
+        },
+        {
+            "rank": 3,
+            "name": "Gaming"
+        },
+        {
+            "rank": 3,
+            "name": "Engineering Software"
+        }
+    ],
+    "normalUse": [
+        {
+            "rank": 1,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        },
+        {
+            "rank": 2,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        },
+        {
+            "rank": 3,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        }
+    ],
+    "professionalUse": [
+        {
+            "rank": 1,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        },
+        {
+            "rank": 2,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        },
+        {
+            "rank": 3,
+            "cpu": "Core i3",
+            "memory": "Ram 4 GB",
+            "gpu": "",
+            "brand": "sdlfkj",
+            "storage": "256 GB",
+            "recommendedCpu": "Core i5",
+            "recommendedMemory": "Ram 4 GB",
+            "recommendedGpu": "",
+            "recommendedBrand": "jsadlf",
+            "recommendedStorage": "512 GB"
+        }
+    ]
+}

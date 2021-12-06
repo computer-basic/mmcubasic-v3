@@ -1,8 +1,8 @@
 {
     "title": "New App!",
     "message": "Myanmar Computer Basic အားအစအဆုံးအသစ်ပြန်လည်ရေးဆွဲထားသော app အသစ် MM Computer Guide App အားရယူနိုင်ပါပြီ",
-    "negative": "Cancel",
-    "positive": "Read",
+    "negative": "Direct Download",
+    "positive": "Play Store",
     "show": true,
     "force": true,
     "type": "update",

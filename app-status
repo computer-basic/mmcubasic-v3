@@ -1,13 +1,13 @@
 {
-    "title": "Server Alert",
-    "message": "Server အလုံအလောက်မရခဲ့သည့်အတွက် သင်ခန်းစာအချို့နှင့် Download function အာ:ဖြုတ်ချထားပါသည် server ဖိုးပြည့်သည့်ချိန်သို့မဟုတ် December လ Update တွင် သင်ခန်းစာများအားပြန်ထည့်ပေးသွားပါမည်",
+    "title": "New App!",
+    "message": "Myanmar Computer Basic အားအစအဆုံးအသစ်ပြန်လည်ရေးဆွဲထားသော app အသစ် MM Computer Guide App အားရယူနိုင်ပါပြီ",
     "negative": "Cancel",
     "positive": "Read",
-    "show": false,
-    "force": false,
+    "show": true,
+    "force": true,
     "type": "update",
-    "url": "https://myanmarcomputerbasic.blogspot.com/2021/10/myanmar-computer-basic-app-server-ads.html",
-    "directUrl": "https://play.google.com/store/apps/details?id=itsmcqsapp.com.computerscience",
-    "version": "2.0",
-    "icon":"https://i.imgur.com/I8wfOsr.png"
+    "url": "https://play.google.com/store/apps/details?id=com.computeguide",
+    "directUrl": "https://www.mediafire.com/file/9k1ksl4w1gxture/MM_Computer_Guide.apk/file",
+    "version": "5.0",
+    "icon":"https://i.imgur.com/xbOiFNC.png"
 }
